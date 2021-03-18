@@ -166,7 +166,6 @@ $(function() {
   });   
 });
 
-//Remove lines 41-55 for DEMO-2
 var counter = document.querySelector(".percent");
 
 TweenLite.set(counter, {
